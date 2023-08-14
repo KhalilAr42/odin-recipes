@@ -1,18 +1,32 @@
 body {
-    text-align: center;
     background-color: rgb(247, 239, 228);
+}
+
+.center-text{
+    text-align: center;
 }
 
 img {
     border-radius: 25px;
     max-width: 539px;
     height: auto;
+    margin: 0px auto;
+    display: block;
 }
 
-ul {
+ul,ol {
     padding-left: 0px;
+    text-align: center;
 }
 
 li {
+    list-style-position: inside;
+}
+
+a {
+    display: block;
+}
+
+.empty-list {
     list-style-type: none;
 }
