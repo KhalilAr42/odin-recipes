@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rgb(247, 239, 228);
+}
+
+img {
+    border-radius: 25px;
+    max-width: 539px;
+    height: auto;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style-type: none;
+}
