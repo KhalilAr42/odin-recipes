@@ -30,3 +30,7 @@ a {
 .empty-list {
     list-style-type: none;
 }
+
+.space-between {
+    margin : 64px 0px;
+}
